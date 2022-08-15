@@ -43,6 +43,8 @@ body {
     height: 300px;
     gap: 14px;
     overflow-y: scroll;
+    background-color: #e2eede88;
+    border-radius: 6px;
   }
   
   #tasks div {
